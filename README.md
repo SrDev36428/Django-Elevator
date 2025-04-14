@@ -1,6 +1,6 @@
 # Elevator System  #
 
-!(https://github.com/passionatedevfuture/Elevator)
+!(https://github.com/SrDev36428/Django-Elevator)
 
 A elevator system which goes up, down and stops built with Django(Django Rest Framework including Viewsets, Serializers and etc.)
 
